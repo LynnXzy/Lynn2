@@ -17,7 +17,7 @@ global.confirmCode = ""
 
 // RZKY API
 global.web = "http://rzky.my.id/"
-global.rzky = "Rzkymlna"
+global.rzky = "xxxx" //isi dengan apikey kamu
 global.noowner = "6281281872699"
 
 //TRIPAY
