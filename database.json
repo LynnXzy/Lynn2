@@ -1,0 +1,188 @@
+{
+  "users": {
+    "6281281872699@s.whatsapp.net": {
+      "Mensaje": 67,
+      "hp": 100,
+      "exp": 1045,
+      "diamond": -3,
+      "dolares": 40,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": true,
+      "name": "Kyyzs",
+      "age": -1,
+      "regTime": 1707576795312,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "mod": false,
+      "autolevelup": false,
+      "antispam": 0,
+      "antispamlastclaim": 0,
+      "MensajeId": 51
+    },
+    "6281312389849@s.whatsapp.net": {
+      "Mensaje": 104,
+      "hp": 100,
+      "exp": 0,
+      "diamond": 10,
+      "dolares": 40,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Y",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "mod": false,
+      "autolevelup": false,
+      "antispam": 0,
+      "antispamlastclaim": 0,
+      "MensajeId": 69
+    },
+    "6281312389792@s.whatsapp.net": {
+      "Mensaje": 5,
+      "hp": 100,
+      "exp": 79,
+      "diamond": 9,
+      "dolares": 40,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": true,
+      "name": "ajshshsh",
+      "age": -1,
+      "regTime": 1707576824254,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "mod": false,
+      "autolevelup": false,
+      "antispam": 0,
+      "antispamlastclaim": 0,
+      "MensajeId": null
+    }
+  },
+  "chats": {
+    "19784818742-1605235727@g.us": {
+      "Mensaje": 161,
+      "isBanned": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "antiLink2": false,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "modoadmin": false,
+      "antiToxic": false,
+      "simi": false,
+      "expired": 0
+    },
+    "6281281872699@s.whatsapp.net": {
+      "Mensaje": 15,
+      "isBanned": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "antiLink2": false,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "modoadmin": false,
+      "antiToxic": false,
+      "simi": false,
+      "expired": 0
+    }
+  },
+  "stats": {
+    "main-menu.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1707576811924,
+      "lastSuccess": 1707576811924
+    },
+    "hc-register.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1707576824254,
+      "lastSuccess": 1707576824254
+    },
+    "hc-menu.js": {
+      "total": 36,
+      "success": 36,
+      "last": 1707591956508,
+      "lastSuccess": 1707591956508
+    },
+    "hc-loli.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1707577117567,
+      "lastSuccess": 1707577117567
+    },
+    "hc-grouplist.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1707586441839,
+      "lastSuccess": 1707586441839
+    },
+    "hc-cleartmp.js": {
+      "total": 5,
+      "success": 0,
+      "last": 1707586796737,
+      "lastSuccess": 0
+    },
+    "hc-maker.js": {
+      "total": 7,
+      "success": 4,
+      "last": 1707589950654,
+      "lastSuccess": 1707589950654
+    },
+    "hc-qc.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1707591951691,
+      "lastSuccess": 1707591951691
+    },
+    "hc-giveaway.js": {
+      "total": 5,
+      "success": 2,
+      "last": 1707592178718,
+      "lastSuccess": 1707592178718
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "6281312389849@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "antiPrivate": false,
+      "restrict": false,
+      "antiSpam": false,
+      "solopv": false,
+      "sologp": false,
+      "status": 0
+    }
+  }
+}
