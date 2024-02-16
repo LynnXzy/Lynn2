@@ -3,22 +3,22 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6281281872699', 'Rzkymlna', true]
+  ['601127905062', 'Dibz', true]
 ]
 
-global.mods = ['']
-global.prems = ['', '', '']
+global.mods = ['601127905062']
+global.prems = ['601127905062', '60169392703', '']
 
 global.HeavyCraft = "" 
-global.lastm = 'Heavycraft MD'
-global.heavy = 'HeavyCraft - MD' // nama bot 
+global.lastm = 'Lynn MD'
+global.heavy = 'Lynn - MD' // nama bot 
 global.confirmCode = ""
 
 
 // RZKY API
-global.web = "http://rzky.my.id/"
+global.web = "https://whatsapp.com/channel/0029VaLhfk41XquTnFDHuy45"
 global.rzky = "xxxx" //isi dengan apikey kamu
-global.noowner = "6281281872699"
+global.noowner = "601127905062"
 
 //TRIPAY
 global.apitripay = "tWWtxTjbn7jHjU1QEbRDLFS3T7oo4JmuuhCSZRiH" //isi dengan apikey tripay kamu
@@ -26,17 +26,17 @@ global.privatekey = "SuYEC-31Scc-EKQKi-N7qBg-JzNSx" //isi dengan privatekey trip
 global.merchant = "T23423" //isi dengan merchant tripay kamu
 
 // Sticker WM
-global.packname = 'HeavyCraft - MD'
-global.author = 'HeavyCraft - MD'
-global.waig = 'Ikuti saya di Instagram\nhttps://www.instagram.com/rizkymaulanasidik_/\n'
+global.packname = 'Botz By'
+global.author = 'Adib'
+global.waig = 'Ikuti saya di Instagram\nhttps://www.instagram.com/al_aadiyatt07/\n'
 global.thumb = 'https://d.top4top.io/p_29628ocym1.png' // thumbnail bot ( foto menu )
-global.grupwa = 'https://chat.whatsapp.com/CyJRUV9qz5IGAAahA2ALA9'
-global.wagit = 'https://github.com/Ikyy69'
-global.wayt = 'https://youtube.com/@rzy'
+global.grupwa = 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD'
+global.wagit = 'https://github.com/LynnXzy'
+global.wayt = 'https://youtube.com/@lynnxzy2951'
 global.wapyp = 'https://paypal.me/itsmeikyxsec404'
 
 global.fglog = 'https://d.top4top.io/p_29628ocym1.png'
-global.numero = ['6281281872699']
+global.numero = ['601127905062']
 global.wait = 'Sedang diproses, mohon tunggu...'
 global.rwait = '⌛'
 global.dmoji = '🤭'
